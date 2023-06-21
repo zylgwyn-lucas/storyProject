@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>First Story Title</item>
+        <item>Second Story Title</item>
+        <item>Third Story Title</item>
+        <item>Fourth Story Title</item>
+        <item>Fifth Story Title</item>
+
+    </string-array>
+</resources>
